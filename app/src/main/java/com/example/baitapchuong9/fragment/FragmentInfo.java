@@ -1,4 +1,6 @@
 package com.example.baitapchuong9.fragment;
 
-public class FragmentInfo {
+import androidx.fragment.app.Fragment;
+
+public class FragmentInfo extends Fragment {
 }

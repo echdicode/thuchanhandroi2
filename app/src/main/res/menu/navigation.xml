@@ -9,4 +9,7 @@
     <item android:id="@+id/mSearch"
         android:title="Tìm kiếm"
         android:icon="@drawable/ic_search"/>
+    <item android:id="@+id/tong"
+        android:title="xin chao"
+        />
 </menu>
